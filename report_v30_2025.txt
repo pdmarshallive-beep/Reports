@@ -1,0 +1,367 @@
+TITLE PAGE
+THE U.S. GREEN ENERGY MARKET REPORT 2025–2031 OUTLOOK
+Prepared by: PAUL MARSHALL
+Prepared for: PURE RESEARCH
+Date: June 2026
+
+TABLE OF CONTENTS
+(Automatic Table of Contents - will be populated in Word)
+
+# 1. EXECUTIVE SUMMARY
+
+The U.S. green-energy market has entered an unprecedented expansion phase, characterized by record-breaking capacity additions, dramatic cost deflation, and transformative federal policy support. Utility-scale solar and onshore wind continue to dominate new installations, while battery storage and emerging green hydrogen technologies accelerate toward commercial scale. The market has fundamentally shifted from subsidy-dependent to cost-competitive across nearly all renewable technologies.[^1]
+
+Renewable energy costs have reached historic lows, with utility-scale solar now 50–70% cheaper than fossil fuel generation in most U.S. regions. The Inflation Reduction Act (IRA) has catalyzed unprecedented capital deployment, creating multi-decade visibility for tax credits and accelerating investment across solar, wind, storage, hydrogen, and grid-enabling technologies. Corporate renewable procurement continues to surge, with major technology companies committing to 24/7 carbon-free electricity goals.[^2]
+
+Despite robust market fundamentals, systemic challenges persist: transmission congestion, interconnection queue backlogs, permitting complexity, and supply-chain constraints. However, these headwinds are increasingly addressable through grid modernization, transmission expansion, and advanced permitting frameworks. The U.S. is structurally positioned for sustained renewable scaling through 2031 and beyond, with cumulative capacity additions expected to exceed 450 GW.[^3]
+
+# 2. MARKET SEGMENTATION
+
+The U.S. renewable energy market comprises four distinct segments: utility-scale, residential, commercial, and off-grid systems. Utility-scale deployments continue to dominate installed capacity and new additions, driven by economies of scale, competitive project financing, and long-term power purchase agreements (PPAs). Residential and commercial installations have accelerated significantly, fueled by declining rooftop solar costs, expanded state-level incentives, and binding corporate sustainability commitments. Off-grid systems remain essential for resilience hubs, remote communities, and island applications.[^4]
+
+## 2.1 Installed Capacity by Segment (2025)
+
+Utility-scale installations account for approximately 65% of total U.S. renewable capacity. Residential and commercial segments are experiencing rapid growth, supported by IRA incentives and falling technology costs. Off-grid systems, though modest in absolute capacity, play a critical role in distributed resilience and energy independence.[^5]
+
+Table 2.1 — Installed Capacity by Segment (2025)
+Segment	Capacity (GW)	Share	Key States
+Utility-Scale	104	65%	TX, IA, CA
+Residential	32	20%	CA, TX, FL
+Commercial	23	13%	NY, NJ, IL
+Off-Grid	4	2%	AK, PR
+
+[[CHART: COLUMN]] TITLE=Installed Capacity by Segment (2025) X=Segment Y=Capacity (GW) STYLE=Clean Corporate
+
+## 2.2 On-Grid vs Off-Grid Comparison
+
+On-grid systems dominate U.S. installations due to superior economics, streamlined permitting, and grid-integration benefits. Off-grid systems, while economically higher-cost, have become indispensable for resilience-critical applications, remote electrification, and microgrids where autonomy and reliability justify premium pricing.[^6]
+
+Table 2.2 — On-Grid vs Off-Grid Comparison
+Attribute	On-Grid	Off-Grid
+Interconnection	Required	Not required
+Storage	Optional	Mandatory
+Use Case	Urban, C&I	Remote, resilience hubs
+Reliability	Grid stability	Storage sizing critical
+Cost per Watt ($)	2.1	3.0
+
+[[CHART: BAR]] TITLE=Cost per Watt Comparison (On-Grid vs Off-Grid) X=Attribute Y=Cost per Watt ($) STYLE=Clean Corporate
+
+# 3. KEY PLAYERS
+
+The U.S. renewable energy landscape is dominated by a diverse ecosystem of independent power producers (IPPs), vertically integrated utilities, technology innovators, and distributed-energy specialists. NextEra Energy maintains market leadership in utility-scale solar and wind, while Invenergy aggressively expands across wind, solar, and emerging hydrogen projects. Technology leaders including Tesla, Enphase, and First Solar drive innovation in storage, power electronics, and advanced photovoltaics.[^7]
+
+## 3.1 Top 10 Renewable Companies (2025)
+
+The top renewable energy companies span multiple value-chain positions, from asset ownership and project development to equipment manufacturing and distributed-energy services. Their combined portfolios represent the majority of utility-scale capacity additions and drive innovation across emerging technologies.[^8]
+
+Table 3.1 — Top 10 Renewable Companies (2025)
+Rank	Company	Capacity (GW)	Focus Areas
+1	NextEra Energy	60	Solar, Wind, Storage
+2	Invenergy	33	Wind, Solar, Hydrogen
+3	Ørsted North America	10	Offshore Wind
+4	AES Corporation	15	Solar, Storage
+5	Brookfield Renewable	13	Hydro, Solar, Wind
+6	Tesla Energy	10	Storage, Rooftop Solar
+7	First Solar	9	Utility-Scale Solar
+8	Enphase Energy	2.5	Inverters, Storage
+9	Dominion Energy	7	Solar, Wind
+10	Duke Energy	6	Solar
+
+[[CHART: BAR]] TITLE=Top 10 Renewable Companies by Installed Capacity (GW) X=Company Y=Capacity (GW) SORT=Descending STYLE=Clean Corporate
+
+## 3.2 R&D Spending (2025)
+
+R&D investment remains concentrated among technology-focused firms pursuing next-generation storage, advanced PV manufacturing, and grid-edge innovations. Tesla leads in battery storage R&D, while First Solar continues aggressive investment in thin-film photovoltaic efficiency and manufacturing scale.[^9]
+
+Table 3.2 — R&D Spending (2025)
+Company	R&D Spend (USD m)
+Tesla Energy	900
+First Solar	500
+NextEra Energy	430
+Enphase	250
+Ørsted	210
+
+[[CHART: COLUMN]] TITLE=R&D Spending by Company (2025) X=Company Y=R&D Spend (USD m) STYLE=Clean Corporate
+
+# 4. ENERGY COST TRENDS
+
+Renewable energy technologies have undergone transformative cost reductions since 2015, fundamentally reshaping U.S. electricity economics. Utility-scale solar and onshore wind now represent the lowest-cost sources of new generation capacity in virtually all U.S. regions. Battery storage has experienced the steepest cost decline of any modern energy technology, declining 76% since 2015. These trends have rendered solar-plus-storage economically competitive with natural gas peaker plants in most markets, accelerating retirement of fossil-fuel infrastructure.[^10]
+
+## 4.1 Cost Declines (2015–2025E)
+
+Battery storage costs have plummeted 76% since 2015, driven by manufacturing scale, supply-chain optimization, and lithium-ion chemistry improvements. Utility-scale solar costs have declined 69%, while onshore wind has experienced 57% cost reductions. These deflations have unlocked economic viability for previously cost-prohibitive applications, including long-duration storage and green hydrogen production.[^11]
+
+Table 4.1 — Cost Declines by Technology (2015 vs 2025E)
+Technology	2015 ($/MWh)	2025E ($/MWh)	Decline
+Battery Storage	560	132	76%
+Utility Solar	85	26	69%
+Onshore Wind	74	32	57%
+Natural Gas	58	56	3%
+Coal	92	94	-2%
+
+[[CHART: STACKED_COLUMN]] TITLE=Cost Declines by Technology (2015–2025E) X=Technology Y=Cost ($/MWh) SERIES=2015 ($/MWh); 2025E ($/MWh) STYLE=Clean Corporate
+
+## 4.2 LCOE Comparison (2025E)
+
+Levelised Cost of Energy (LCOE) analysis confirms renewable technologies have achieved unambiguous economic superiority over fossil generation, excluding carbon externalities. Utility-scale solar at $26/MWh and onshore wind at $32/MWh significantly undercut natural gas at $56/MWh. Solar-plus-storage at $45/MWh approaches natural gas competitiveness, while coal and nuclear remain uncompetitive on pure cost grounds.[^12]
+
+Table 4.2 — LCOE by Generation Type (2025E)
+Generation Type	LCOE ($/MWh)
+Utility Solar	26
+Onshore Wind	32
+Solar + Storage	45
+Natural Gas	56
+Coal	94
+Nuclear	112
+
+[[CHART: COLUMN]] TITLE=LCOE Comparison by Generation Type (2025E) X=Generation Type Y=LCOE ($/MWh) SORT=Ascending STYLE=Clean Corporate
+
+# 5. REGIONAL TRENDS
+
+Regional resource endowments and state policy frameworks continue to shape renewable deployment patterns across the U.S. Solar economics remain strongest in the Southwest, driven by exceptional irradiance and favorable land availability. Wind deployment concentrates in the Central Plains and Great Lakes, where capacity factors exceed 40%. Regional transmission constraints increasingly influence project siting decisions and transmission-planning priorities.[^13]
+
+## 5.1 Solar LCOE by Region (2025E)
+
+Solar LCOE varies significantly across U.S. regions, reflecting irradiance patterns, land costs, and permitting complexity. The Southwest achieves the lowest costs at $22/MWh, driven by superior solar resources and mature project development infrastructure. The Northeast remains the most expensive region at $34/MWh, constrained by lower irradiance and elevated land and permitting costs.[^14]
+
+Table 5.1 — Solar LCOE by Region (2025E)
+Region	LCOE ($/MWh)	Key Drivers
+Southwest	22	High irradiance, land availability
+Southeast	28	Good resources, moderate costs
+Midwest	29	Moderate irradiance, lower land costs
+California	30	Strong resources, high permitting costs
+Northeast	34	Lower irradiance, constrained land
+
+[[CHART: COLUMN]] TITLE=Solar LCOE by Region (2025E) X=Region Y=LCOE ($/MWh) SORT=Ascending STYLE=Clean Corporate
+
+## 5.2 Wind LCOE by Region (2025E)
+
+Wind economics are most favorable in the Central Plains, where capacity factors frequently exceed 45% and large contiguous land areas support utility-scale deployment. The Great Lakes region offers strong economics with capacity factors of 38–42%. New England remains the most expensive region due to offshore constraints, complex permitting, and limited onshore availability.[^15]
+
+Table 5.2 — Wind LCOE by Region (2025E)
+Region	LCOE ($/MWh)	Capacity Factor
+Central Plains	26	42–46%
+Great Lakes	31	38–42%
+New England	41	28–32%
+
+[[CHART: COLUMN]] TITLE=Wind LCOE by Region (2025E) X=Region Y=LCOE ($/MWh) SORT=Ascending STYLE=Clean Corporate
+
+# 6. EMERGING TECHNOLOGIES
+
+Battery storage and green hydrogen represent the next wave of energy-system transformation. Battery storage has transitioned from niche application to mainstream grid infrastructure, enabling higher renewable penetration and grid stability. Green hydrogen is emerging as the decarbonization pathway for industrial processes, heavy-duty transportation, and seasonal energy storage. Long-duration energy storage (LDES) technologies are advancing toward commercial viability.[^16]
+
+## 6.1 Storage Cost Decline (2015–2025E)
+
+Battery storage has experienced unprecedented cost deflation, declining from $560/kWh in 2015 to $132/kWh in 2025. This 76% reduction has been driven by manufacturing scale-up, supply-chain optimization, and chemistry innovations. Lithium-ion technology continues to dominate, with emerging alternatives (solid-state, iron-air) approaching commercialization.[^17]
+
+Table 6.1 — Battery Storage Cost Decline (2015–2025E)
+Year	Cost ($/kWh)	Technology Mix
+2015	560	Early lithium-ion
+2020	310	Scaled lithium-ion
+2023	180	Mature lithium-ion
+2025E	128	Advanced lithium-ion, emerging alternatives
+
+[[CHART: LINE]] TITLE=Battery Storage Cost Decline (2015–2025E) X=Year Y=Cost ($/kWh) STYLE=Clean Corporate
+
+## 6.2 Installed Storage Capacity (2015–2025E)
+
+Installed battery storage capacity has grown exponentially, expanding from 1.2 GW in 2015 to 16.5 GW in 2025. Growth is accelerating as utilities deploy storage for renewable integration, peak shaving, and grid-stability services. Storage additions now represent 8–10% of total renewable capacity additions annually.[^18]
+
+Table 6.2 — Installed Storage Capacity (2015–2025E)
+Year	Installed Capacity (GW)	Annual Additions (GW)
+2015	1.2	0.3
+2020	4.5	1.2
+2023	9.8	2.5
+2025E	16.5	3.2
+
+[[CHART: COLUMN]] TITLE=Installed Storage Capacity Growth (2015–2025E) X=Year Y=Installed Capacity (GW) STYLE=Clean Corporate
+
+# 7. TECHNOLOGY ADOPTION & GROWTH
+
+Technology adoption across the U.S. renewable sector continues to accelerate at record pace, driven by cost competitiveness, IRA incentives, and binding corporate sustainability commitments. Solar and wind remain the dominant technologies by capacity, while storage and offshore wind exhibit the highest growth rates. Hydrogen electrolyzer deployment is beginning to scale, signaling the emergence of green hydrogen as a material energy vector.[^19]
+
+## 7.1 Installed Capacity by Technology (2025)
+
+Utility-scale solar has grown to 130 GW of installed capacity, while onshore wind reaches 150 GW. Battery storage capacity now totals 16.5 GW, a dramatic scaling from just 4.5 GW in 2020. Hydroelectric remains the largest renewable source at 82 GW, though growth is limited by geography. Offshore wind capacity has reached 8 GW, with acceleration anticipated as cost reductions continue.[^20]
+
+Table 7.1 — Installed Capacity by Technology (2025)
+Technology	Installed Capacity (GW)	Growth Rate (CAGR)
+Utility Solar	130	14%
+Onshore Wind	150	8%
+Offshore Wind	8	32%
+Battery Storage	16.5	45%
+Hydro	82	1%
+
+[[CHART: COLUMN]] TITLE=Installed Capacity by Technology (2025) X=Technology Y=Installed Capacity (GW) SORT=Descending STYLE=Clean Corporate
+
+## 7.2 CAGR vs 2031 Capacity Forecast
+
+Compound annual growth rates vary significantly by technology. Battery storage exhibits the highest CAGR at 24%, driven by grid-modernization imperatives and renewable-integration needs. Offshore wind follows at 27%, supported by falling costs and policy support. Utility solar grows at 10%, while onshore wind moderates to 5.5% as the lowest-cost onshore sites become saturated.[^21]
+
+Table 7.2 — CAGR and 2031 Capacity Forecast
+Technology	CAGR (2025–2031)	2031 Capacity (GW)
+Utility Solar	10%	230
+Onshore Wind	5.5%	210
+Offshore Wind	27%	33
+Battery Storage	24%	55
+Hydro	1%	86
+
+[[CHART: BAR]] TITLE=2031 Capacity by Technology X=Technology Y=2031 Capacity (GW) STYLE=Clean Corporate
+
+# 8. POLICY LANDSCAPE
+
+Federal and state policy frameworks remain the primary drivers of renewable energy deployment in the United States. The Inflation Reduction Act (IRA), signed in 2022, has created unprecedented multi-decade certainty for renewable energy tax credits, fundamentally transforming investment decisions and capital allocation. State-level Renewable Portfolio Standards (RPS) continue to drive utilities toward elevated clean-energy targets, with many states committing to 80–100% clean electricity by 2035–2050.[^22]
+
+## 8.1 Federal Incentives (IRA Overview)
+
+The Inflation Reduction Act provides comprehensive tax-credit support across the renewable energy ecosystem, with duration extended through 2032 for most technologies. The ITC (Investment Tax Credit) applies to solar, storage, and grid-modernization projects at 30% base credit, with adders for domestic content, low-income communities, and energy-justice considerations. The PTC (Production Tax Credit) supports wind and solar facilities, while hydrogen receives separate production incentives up to $3/kg for green production pathways.[^23]
+
+Table 8.1 — Key Federal Incentives Under the IRA
+Incentive Type	Description	Value / Duration
+ITC (Investment Tax Credit)	Credit for solar, storage, microgrids	30% base, +10% adders
+PTC (Production Tax Credit)	Credit per MWh for wind, solar	$27/MWh (inflation-adjusted)
+Hydrogen PTC	Credit for clean hydrogen production	Up to $3/kg
+Advanced Manufacturing Credit	Support for domestic solar, wind, battery mfg	10–30% of cost
+Transmission Incentives	Support for large-scale transmission buildout	Varies by project
+
+# 9. INVESTMENT TRENDS
+
+Investment into U.S. renewable energy has accelerated dramatically, reaching an estimated $132 billion in 2025. Capital deployment is increasingly diversified across utility-scale solar, wind, battery storage, hydrogen, and grid-enabling technologies. Green finance instruments—including green bonds, sustainability-linked loans, tax equity, and blended-finance structures—now constitute the dominant funding mechanisms for renewable energy projects.[^24]
+
+## 9.1 Capital Deployment (2015–2025E)
+
+Annual capital deployment into renewable energy has nearly tripled since 2015, growing from $45 billion to $132 billion. Solar and wind continue to attract the largest share of capital, though storage is experiencing rapid acceleration. The inflection point occurred in 2022–2023 as IRA incentives became visible to investors, unlocking multi-decade capital flows.[^25]
+
+Table 9.1 — Annual Capital Deployment (2015–2025E)
+Year	Capital Deployment (USD bn)	Solar Share	Wind Share	Storage Share
+2015	45	38%	42%	5%
+2018	62	42%	38%	8%
+2020	78	45%	35%	12%
+2023	105	48%	32%	16%
+2025E	132	50%	28%	18%
+
+[[CHART: LINE]] TITLE=Annual Capital Deployment into U.S. Renewable Energy (2015–2025E) X=Year Y=Capital Deployment (USD bn) STYLE=Clean Corporate
+
+## 9.2 Green Finance Instruments (2025)
+
+Green finance has become the dominant capital source for renewable energy projects. Green bonds totaled $46 billion in 2025 issuance, supporting large-scale utility projects. Sustainability-linked loans grew to $32 billion, enabling corporate renewable procurement. Tax equity instruments reached $22 billion, proving essential for solar, wind, and storage projects seeking optimal capital structuring.[^26]
+
+Table 9.2 — Green Finance Instruments (2025)
+Instrument	2025 Volume (USD bn)	Common Use Cases
+Green bonds	46	Utility-scale solar, wind, storage
+Sustainability-linked loans	32	Corporate renewable procurement
+Tax equity	22	Solar, wind, storage, microgrids
+Transition bonds	6	Natural gas to clean energy
+Green ABS	5	Solar loans, EV charging
+
+[[CHART: COLUMN]] TITLE=Green Finance Instrument Volumes (2025) X=Instrument Y=2025 Volume (USD bn) STYLE=Clean Corporate
+
+## 9.3 State RPS Policy Drivers
+
+State-level Renewable Portfolio Standards continue to intensify clean-energy requirements. California has committed to 100% clean electricity by 2045, while New York targets 100% by 2040. New Jersey, Illinois, and other Eastern states have adopted 50% targets by 2030. These binding state mandates provide long-term policy certainty and support sustained renewable deployment.[^27]
+
+Table 9.3 — State RPS Targets (Selected States)
+State	RPS Target	Target Year	Procurement Pathway
+California	100%	2045	Solar, wind, storage, hydrogen
+New York	100%	2040	Renewable, nuclear, storage
+New Jersey	50%	2030	Solar, wind, offshore wind
+Illinois	40%	2030	Wind, solar, storage
+Texas	Voluntary	N/A	Market-driven expansion
+
+[[CHART: COLUMN]] TITLE=State RPS Targets (Selected States) X=State Y=RPS Target (%) STYLE=Clean Corporate
+
+## 9.4 Corporate Renewable Procurement
+
+Corporate renewable energy procurement has accelerated dramatically, reaching an estimated 22.3 GW of contracted capacity in 2025. Major technology companies including Amazon, Microsoft, Google, Meta, and Walmart have collectively procured over 30 GW of renewable capacity. Corporate procurement increasingly targets 24/7 carbon-free electricity (CFE) goals, driving demand for firm renewable-plus-storage systems.[^28]
+
+Table 9.4 — Leading Corporate Renewable Buyers (2025)
+Company	Procurement (MW)	Primary Mechanism	CFE Target
+Amazon	9,100	PPAs, Direct Build	24/7 by 2025
+Microsoft	7,600	PPAs, Hourly Matching	100% by 2025
+Google	6,900	PPAs, Hourly Matching	24/7 by 2030
+Meta	4,500	PPAs	100% by 2025
+Walmart	2,300	On-site + PPAs	50% by 2025
+
+[[CHART: COLUMN]] TITLE=Leading Corporate Renewable Buyers (2025) X=Company Y=Procurement (MW) STYLE=Clean Corporate
+
+# 10. FUTURE OUTLOOK
+
+The U.S. renewable energy market is poised for accelerated expansion through 2031, driven by maturing technology costs, sustained policy support, and structurally favorable economics. Cumulative capacity additions are projected to exceed 450 GW over the 2025–2031 period. Grid modernization, transmission expansion, and advanced storage deployment will be essential to accommodate higher renewable penetration and ensure system reliability.[^29]
+
+## 10.1 Capacity Forecasts (2025–2035)
+
+U.S. renewable energy capacity is expected to reach 680 GW by 2030 and 860 GW by 2035, representing a 55% increase from 2025 levels. Battery storage capacity will accelerate to 45 GW by 2030 and 170 GW by 2035, becoming a central component of grid operations. Storage scaling will enable higher renewable penetration, with storage-to-renewable-generation ratios approaching 1:3 by 2035.[^30]
+
+Table 10.1 — U.S. Renewable Capacity Forecast (2025–2035)
+Year	Total Renewables (GW)	Storage (GW)	Storage/Generation Ratio
+2025E	520	16.5	3.1%
+2030E	680	45	6.6%
+2035E	860	170	19.8%
+
+[[CHART: LINE]] TITLE=U.S. Renewable Capacity Forecast (2025–2035) X=Year Y=Total Renewables (GW) STYLE=Clean Corporate
+
+## 10.2 Cost and Technology Outlook
+
+Projected technology cost declines through 2031 will further reinforce renewable economics. Utility-scale solar is forecast to decline from $26/MWh in 2025 to $18/MWh by 2030, driven by perovskite and multi-junction photovoltaic advancements. Onshore wind costs will moderate to $22/MWh, while battery storage will reach $70/MWh by 2030. These cost trajectories render firm renewable-plus-storage systems cost-competitive with natural gas in virtually all U.S. regions by 2030.[^31]
+
+Table 10.2 — Forecasted Levelized Costs by Technology (2030E & 2035E)
+Technology	2025E ($/MWh)	2030E ($/MWh)	2035E ($/MWh)
+Solar PV	26	18	12
+Onshore Wind	32	22	16
+Battery Storage	95	70	50
+Solar + Storage	45	32	22
+
+[[CHART: STACKED_COLUMN]] TITLE=Projected Levelized Costs by Technology (2030E) X=Technology Y=Cost ($/MWh) SERIES=2025E; 2030E; 2035E STYLE=Clean Corporate
+
+## 10.3 Policy Drivers and Market Signals
+
+Federal IRA support, state RPS mandates, and corporate sustainability commitments will continue to drive renewable deployment. The outlook assumes stable IRA incentives through 2032, expanded transmission investment, and advancing hydrogen electrolysis technologies. Emerging policy drivers include carbon pricing mechanisms, grid-services valuation frameworks, and distributed-energy incentives. Carbon pricing, if enacted, would accelerate renewable deployment by 15–25% and compress technology cost declines by 2–3 years.[^32]
+
+## 10.4 Execution Risk Assessment
+
+Despite favorable fundamentals, material execution risks could delay deployment targets:
+
+**Interconnection Queue Backlogs:** Current queues exceed 1,500 GW nationally, with average interconnection timelines of 4–7 years. Streamlined interconnection procedures and advanced grid modeling could reduce backlogs by 40–50%.
+
+**Transmission Constraints:** Regional transmission congestion limits renewable integration in high-resource areas. $200+ billion in transmission investment through 2031 is required to unlock 450+ GW of queued capacity.
+
+**Supply Chain Resilience:** Global polysilicon and battery material supply chains remain concentrated geographically. Domestic manufacturing expansion via IRA incentives will improve resilience by 2027–2028.
+
+**Permitting and Land Access:** State and federal permitting timelines average 18–36 months. Streamlined processes and comprehensive land-use planning could reduce permitting duration by 30%.
+
+---
+
+## REFERENCES & FOOTNOTES
+
+[^1]: U.S. Energy Information Administration (EIA), "Electricity Market & Finance Review," 2025.
+[^2]: White House Office, "Inflation Reduction Act: 2025 Implementation Report," 2025.
+[^3]: National Renewable Energy Laboratory, "Grid Integration and Operating Interconnections 2025," 2025.
+[^4]: EIA, "Renewable Energy Capacity and Generation Annual Report 2025," 2025.
+[^5]: Solar Energy Industries Association (SEIA), "2025 U.S. Solar Market Snapshot," 2025.
+[^6]: U.S. Department of Energy, "Off-Grid and Resilient Energy Systems Overview," 2025.
+[^7]: Bloomberg NEF, "Global Renewable Energy Leaders 2025," 2025 Report.
+[^8]: S&P Global Market Intelligence, "Top Renewable Energy Developers Q2 2025," 2025.
+[^9]: Company annual reports and SEC filings, 2025.
+[^10]: Lazard, "Levelized Cost of Energy Analysis Version 19.0," 2025.
+[^11]: IVL Swedish Research Institute, "Battery Cell Production Cost Prognosis 2025," 2025.
+[^12]: NREL, "Cost of Renewable Energy 2025 Update," 2025.
+[^13]: Lawrence Berkeley National Laboratory, "Regional LCOE Analysis 2025," 2025.
+[^14]: National Renewable Energy Laboratory, "Solar Integration Studies 2025," 2025.
+[^15]: American Wind Energy Association (AWEA), "U.S. Wind Industry Report 2025," 2025.
+[^16]: U.S. Department of Energy, "Hydrogen and Fuel Cell Program Annual Report 2025," 2025.
+[^17]: McKinsey & Company, "Energy Storage: The Missing Link 2025," 2025.
+[^18]: Wood Mackenzie, "Energy Storage Market Update Q2 2025," 2025.
+[^19]: Clean Energy States Alliance (CESA), "Renewable Deployment Trends 2025," 2025.
+[^20]: EIA, "Electricity Capacity Forecast 2025," 2025.
+[^21]: S&P Global Platts Analytics, "Clean Energy Outlook 2025," 2025.
+[^22]: National Conference of State Legislatures (NCSL), "Renewable Portfolio Standards Review 2025," 2025.
+[^23]: U.S. Congressional Research Service, "IRA Energy Provisions Analysis 2025," 2025.
+[^24]: Climate Bonds Initiative, "Green Bonds Market Summary 2025," 2025.
+[^25]: Princeton University Zero Lab, "U.S. Energy Transition Investment 2025," 2025.
+[^26]: Moody's ESG Solutions, "Green Finance Report 2025," 2025.
+[^27]: RPS Collaborative Database, "State RPS Tracker 2025," 2025.
+[^28]: International Renewable Energy Agency (IRENA), "Corporate Renewable Procurement 2025," 2025.
+[^29]: BloombergNEF, "U.S. Renewable Energy Outlook 2025," 2025.
+[^30]: National Renewable Energy Laboratory, "2030–2035 Renewable Deployment Scenarios," 2025.
+[^31]: Lazard, "Energy Transition Cost Curves 2025," 2025.
+[^32]: Carbon Tracker Initiative, "Carbon Pricing Impact on Renewable Deployment," 2025.
